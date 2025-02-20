@@ -8,12 +8,12 @@
 		<module>service</module>
 		<module>repository</module>
 		<module>web</module>
-		<module>email</module>
+<!-- 		<module>email</module>
 		<module>email</module>
         <module>email</module>
 		<module>email</module>
 		<module>email-api</module>
-		<module>email</module>
+		<module>email</module> -->
 		<module>email-app</module>
 	</modules>
 	<parent>
